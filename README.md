@@ -9,6 +9,14 @@ OwN-IT is an e-commerce platform designed to provide a seamless shopping experie
 - **Frontend:** HTML, CSS, Bootstrap, TypeScript, Angular
 - **Authentication:** Okta
 
+### Desktop view
+
+![Desktop Screenshot](./DesktopView.JPG)
+
+### Mobile view
+
+![Mobile Screenshot](./MobilePhoneView.JPG)
+
 ## Features
 
 - User-friendly interface with easy navigation for product browsing
