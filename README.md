@@ -1,5 +1,6 @@
 # OwN-IT
 
+# Full Stack E-Commerce Website with Angular and Spring Boot
 OwN-IT is an e-commerce platform designed to provide a seamless shopping experience. Built using modern Java and web development technologies, this application integrates robust backend features with a dynamic, user-friendly frontend.
 
 ## Technologies Used
@@ -23,3 +24,31 @@ OwN-IT is an e-commerce platform designed to provide a seamless shopping experie
 1. **Clone the Repository:**
    ```bash
    git clone <repository-url>
+
+
+
+2.**Backend Setup: Configure your database settings in application.properties. Build the backend with:**
+   mvn clean install
+
+**Then run the backend:**
+mvn spring-boot:run
+
+3. **Frontend Setup:
+Navigate to the Angular project directory:**
+cd frontend
+
+**Install dependencies:**
+npm install
+
+ **Run the Angular development server:**
+    ng serve
+
+**Configure Okta Authentication:**
+   Update the Okta client settings as per your Okta app configuration.
+
+**Contributing**
+Contributions are welcome! Please fork the repository and create a pull request for any improvements or bug fixes.
+
+
+
+
