@@ -27,12 +27,29 @@ OwN-IT is an e-commerce platform designed to provide a seamless shopping experie
 - Role-based access control with Spring Security
 - Responsive design with Bootstrap for compatibility across devices
 
+**Prerequisites 🛠️**
+-Node.js and npm: Required for managing Angular dependencies.
+-Angular CLI: Install globally for Angular application management.
+-Code Editor: Choose from Visual Studio Code or IntelliJ.
+-Java Development Kit (JDK): Compatible with JDK 8, 11, or 16+.
+
 ## Setup Instructions
 
 1. **Clone the Repository:**
    ```bash
    git clone <repository-url>
 
+
+**Installation 📥**
+-Clone the repository: git clone https://github.com/Asif12as/OwN-IT--E-Commerce.git
+-Navigate to the db-scripts directory: cd 01-stater-files/db-scripts
+-Execute each SQL script using MySql Workbench to create the database schema and tables.
+-Navigate to the back-end directory: cd 02-backend/spring-boot rest api
+-Open the project in IntelliJ IDE and let Maven automatically build and install dependencies.
+-Navigate to the front-end directory: cd frontend/angular-ecommerce
+-Install Angular CLI: npm install -g @angular/cli
+-Install front-end dependencies from package.json.
+ Usage 🚀
 
 
 2.**Backend Setup: Configure your database settings in application.properties. Build the backend with:**
@@ -55,7 +72,7 @@ npm install
    Update the Okta client settings as per your Okta app configuration.
 
 **Contributing**
-Contributions are welcome! Please fork the repository and create a pull request for any improvements or bug fixes.
+This project was a team effort led by Md Ashif, with valuable contributions from Guddu Kumar, Ravi Prakash, and Vipin Thakre.
 
 
 
