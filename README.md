@@ -72,7 +72,7 @@ npm install
    Update the Okta client settings as per your Okta app configuration.
 
 **Contributing**
-This project was a team effort led by Md Ashif, with valuable contributions from Guddu Kumar, Ravi Prakash, and Vipin Thakre.
+This project was a team effort led by Md Ashif, with valuable contributions from Guddu Kumar, Ravi Prakash, Dharmendra Kumar, and Vipin Thakre.
 
 
 
