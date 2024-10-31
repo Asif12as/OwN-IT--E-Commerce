@@ -5,9 +5,12 @@ OwN-IT is an e-commerce platform designed to provide a seamless shopping experie
 
 ## Technologies Used
 
-- **Backend:** Java 11, Apache Maven, Hibernate, Spring Core, Spring Data, Spring REST, Spring Boot, Spring Security
-- **Frontend:** HTML, CSS, Bootstrap, TypeScript, Angular
-- **Authentication:** Okta
+-Angular 16.2.1: Front-end framework for single-page web applications.
+-TypeScript 5.1.6: Adds static typing with optional type annotations to JavaScript.
+-Spring Boot 3.1.2: Back-end framework for Java-based web applications.
+-Java 17.0.8: Object-oriented programming language.
+-MySQL 8.0.17: Relational database management system.
+-Okta 2.1.6: Cloud-based identity and access management platform.
 
 ### Desktop view
 
