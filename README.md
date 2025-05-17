@@ -12,6 +12,7 @@ OwN-IT is an e-commerce platform designed to provide a seamless shopping experie
 -MySQL 8.0.17: Relational database management system.
 -Okta 2.1.6: Cloud-based identity and access management platform.
 
+
 ### Desktop view
 
 ![Desktop Screenshot](./DesktopView.JPG)
