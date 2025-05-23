@@ -18,7 +18,6 @@ OwN-IT is an e-commerce platform designed to provide a seamless shopping experie
 ![Desktop Screenshot](./DesktopView.JPG)
 
 ### Mobile view
-
 ![Mobile Screenshot](./MobilePhoneView.JPG)
 
 ## Features
